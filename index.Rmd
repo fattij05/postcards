@@ -1,6 +1,6 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Abdulfatai Tijjani"
+image: "abdulfatai.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
@@ -9,9 +9,9 @@ links:
   - label: GitHub
     url: "https://github.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:abdulfatai.tijjani@email.com"
 output:
-  postcards::jolla
+  postcards::abdulfatai
 ---
  
 I am a classically trained data scientist living in the San Francisco Bay Area. 
